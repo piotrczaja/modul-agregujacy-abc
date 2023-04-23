@@ -1,0 +1,9 @@
+[submodule "lib/modula"]
+	path = lib/modula
+	url = git@github.com:piotrczaja/modul-a.git
+[submodule "lib/modulb"]
+	path = lib/modulb
+	url = git@github.com:piotrczaja/modul-b.git
+[submodule "lib/modulc"]
+	path = lib/modulc
+	url = git@github.com:piotrczaja/modul-c.git
